@@ -11,9 +11,9 @@
 ---
 
 ### 🟡 Phase 2: Documents Collection & Auto-Reminders
-- [ ] Set up **Webhook** to receive vendor documents (License, Tax ID, Bank Details) via WhatsApp/Email.
-- [ ] Store received documents in **Supabase Storage**.
-- [ ] Implement **Auto-Reminder Loop (x2)** if documents are missing or ignored.
+- [x] Set up **Webhook** to receive vendor documents (License, Tax ID, Bank Details) via WhatsApp/Email.
+- [x] Store received documents in **Supabase Storage**.
+- [x] Implement **Auto-Reminder Loop (x2)** if documents are missing or ignored.
 
 ---
 
